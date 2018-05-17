@@ -4,14 +4,14 @@
 ## Preface
 
 ## 1. IPython: Beyond Normal Python
-* 1.01 Help and Documentation in IPython
-* 1.02 Keyboard Shortcuts in the IPython Shell
-* 1.03 IPython Magic Commands
-* 1.04 Input and Output History
-* 1.05 IPython and Shell Commands
-* 1.06 Errors and Debugging
-* 1.07 Profiling and Timing Code
-* 1.08 More IPython Resources
+* [1.01](https://jakevdp.github.io/PythonDataScienceHandbook/01.01-help-and-documentation.html) Help and Documentation in IPython
+* [1.02](https://jakevdp.github.io/PythonDataScienceHandbook/01.02-shell-keyboard-shortcuts.html) Keyboard Shortcuts in the IPython Shell
+* [1.03](https://jakevdp.github.io/PythonDataScienceHandbook/01.03-magic-commands.html) IPython Magic Commands
+* [1.04](https://jakevdp.github.io/PythonDataScienceHandbook/01.04-input-output-history.html) Input and Output History
+* [1.05](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html) IPython and Shell Commands
+* [1.06](https://jakevdp.github.io/PythonDataScienceHandbook/01.06-errors-and-debugging.html) Errors and Debugging
+* [1.07](https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html) Profiling and Timing Code
+* [1.08](https://jakevdp.github.io/PythonDataScienceHandbook/01.08-more-ipython-resources.html) More IPython Resources
 
 ## 2. Introduction to NumPy
 * 2.01 Understanding Data Types in Python
