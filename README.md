@@ -1,4 +1,29 @@
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+# A Whirlwind Tour of Python
+###### Jake VanderPlas [[GitHub]](https://github.com/jakevdp/WhirlwindTourOfPython) [[pdf]](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
+
+* Introduction
+* How to Run Python Code
+* Basic Python Syntax
+* Python Semantics: Variables
+* Python Semantics: Operators
+* Built-In Scalar Types
+* Built-In Data Structures
+* Control Flow Statements
+* Defining Functions
+* Errors and Exceptions
+* Iterators
+* List Comprehensions
+* Generators and Generator Expressions
+* Modules and Packages
+* Strings and Regular Expressions
+* Preview of Data Science Tools
+* Resources for Further Learning
+* Appendix: Code To Reproduce Figures
+
+---
+
+# [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+###### Jake VanderPlas [[GitHub]](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 ## Preface
@@ -14,7 +39,7 @@
 * [1.08](https://jakevdp.github.io/PythonDataScienceHandbook/01.08-more-ipython-resources.html) More IPython Resources
 
 ## 2. Introduction to NumPy
-* 2.01 Understanding Data Types in Python
+* [2.01](https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html) Understanding Data Types in Python
 * 2.02 The Basics of NumPy Arrays
 * 2.03 Computation on NumPy Arrays: Universal Functions
 * 2.04 Aggregations: Min, Max and Everything In Between
