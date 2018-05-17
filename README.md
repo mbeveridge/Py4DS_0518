@@ -1,23 +1,23 @@
 # A Whirlwind Tour of Python
 ###### Jake VanderPlas [[GitHub]](https://github.com/jakevdp/WhirlwindTourOfPython) [[pdf]](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
 
-* Introduction
-* 01. How to Run Python Code
-* 02. Basic Python Syntax
-* 03. Python Semantics: Variables
-* 04. Python Semantics: Operators
-* 05. Built-In Scalar Types
-* 06. Built-In Data Structures
-* 07. Control Flow Statements
-* 08. Defining Functions
-* 09. Errors and Exceptions
-* 10. Iterators
-* 11. List Comprehensions
-* 12. Generators and Generator Expressions
-* 13. Modules and Packages
-* 14. Strings and Regular Expressions
-* 15. Preview of Data Science Tools
-* 16. Resources for Further Learning
+* Introduction [P.1]
+* 01. How to Run Python Code [P.5]
+* 02. Basic Python Syntax [P.7]
+* 03. Python Semantics: Variables [P.13]
+* 04. Python Semantics: Operators [P.17]
+* 05. Built-In Scalar Types [P.24]
+* 06. Built-In Data Structures [P.30]
+* 07. Control Flow Statements [P.37]
+* 08. Defining Functions [P.41]
+* 09. Errors and Exceptions [P.45]
+* 10. Iterators [P.52]
+* 11. List Comprehensions [P.58]
+* 12. Generators and Generator Expressions [P.61]
+* 13. Modules and Packages [P.66]
+* 14. Strings and Regular Expressions [P.69]
+* 15. Preview of Data Science Tools [P.84]
+* 16. Resources for Further Learning [P.90]
 * 17. Appendix: Code To Reproduce Figures
 
 ---
