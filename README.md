@@ -13,7 +13,7 @@ Chapter links are to Jupyter notebooks, in GitHub :
 * [07](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/07-Control-Flow-Statements.ipynb) Control Flow Statements [P.37]
 * [08](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb) Defining Functions [P.41]
 * [09](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb) Errors and Exceptions [P.45]
-* 10 Iterators [P.52]
+* [10](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb) Iterators [P.52]
 * 11 List Comprehensions [P.58]
 * 12 Generators and Generator Expressions [P.61]
 * 13 Modules and Packages [P.66]
