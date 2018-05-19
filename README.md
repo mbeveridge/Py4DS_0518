@@ -14,7 +14,7 @@ Chapter links are to Jupyter notebooks, in GitHub :
 * [08](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/08-Defining-Functions.ipynb) Defining Functions [P.41]
 * [09](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/09-Errors-and-Exceptions.ipynb) Errors and Exceptions [P.45]
 * [10](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/10-Iterators.ipynb) Iterators [P.52]
-* 11 List Comprehensions [P.58]
+* [11](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/11-List-Comprehensions.ipynb) List Comprehensions [P.58]
 * 12 Generators and Generator Expressions [P.61]
 * 13 Modules and Packages [P.66]
 * 14 Strings and Regular Expressions [P.69]
