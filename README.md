@@ -18,9 +18,9 @@ Chapter links are to Jupyter notebooks, in GitHub :
 * 12 Generators and Generator Expressions [P.61]
 * 13 Modules and Packages [P.66]
 * 14 Strings and Regular Expressions [P.69]
-* 15 Preview of Data Science Tools [P.84]
-* 16 Resources for Further Learning [P.90]
-* 17 Appendix: Code To Reproduce Figures
+* [15](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/17-Figures.ipynb) Preview of Data Science Tools [P.84]
+* [16](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/16-Further-Resources.ipynb) Resources for Further Learning [P.90]
+* [17](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/17-Figures.ipynb) Appendix: Code To Reproduce Figures [-]
 
 ---
 
