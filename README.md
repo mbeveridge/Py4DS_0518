@@ -52,8 +52,8 @@ Chapter links are to html pages :
 * 2.08 Sorting Arrays
 * 2.09 Structured Data: NumPy's Structured Arrays
 
-## 3.Data Manipulation with Pandas
-* 3.01 Introducing Pandas Objects
+## 3. Data Manipulation with Pandas
+* [3.01](https://jakevdp.github.io/PythonDataScienceHandbook/03.01-introducing-pandas-objects.html) Introducing Pandas Objects
 * 3.02 Data Indexing and Selection
 * 3.03 Operating on Data in Pandas
 * 3.04 Handling Missing Data
